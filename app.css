@@ -1,0 +1,16 @@
+h1{
+	color: blue;
+}
+
+body{
+	color: white;
+	background: url(header.jpg)
+}
+
+.demoimg{
+	text-align: center;
+}
+.head{
+	background-color: blue;
+	text-align: center;
+}
